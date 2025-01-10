@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 ### C# | .NET 
 
-Desenvolvedor, Formado em Sistemas de informação
+Arquiteto de Software e Especialista .NET , Formado em Sistemas de informação e MBA em Arquitetura de Soluções
 
-6 anos trabalhando com a linguagem C#. 
+7 anos trabalhando com a linguagem C#. 
 
 Experiência com programação: C#, .NET Core, SQL Server.
 
@@ -29,9 +29,8 @@ Experiência com programação: C#, .NET Core, SQL Server.
 Analise geral do problema, no qual busco soluções para recomendar a equipe focando na melhoria e otimização de tarefas, reduzindo o custo e o tempo exercido para cumprimento da mesma. Facil adptação de acordo com a necessidade.
 
 
-- 🔭 Trabalhando atualmente com API's Rest e RestFul, Desenvolvimento de Workers em sistema de fluxo de backoffice em sistema bancario
-- 🌱 Atualmente estudando .NET Core, .NET Maui, .NET Blazor.
-- 🎓 Cursando MBA em Arquitetura de soluções.
+- 🔭 Trabalhando atualmente com Arquitetura de Software e Soluções, Definindo a melhor estratégia e auxiliando na implementação de tecnologias e funcionalidades em sistema bancario
+- 🌱 Atualmente estudando GCP, .NET Maui, OpenFinance.
 - :iphone: (11) 96321-7180
 - 💬 guilherme.silva.tech@gmail.com
 - :briefcase: linkedin.com/in/guilherme-silva-42577b123/
